@@ -3,7 +3,7 @@
 A simple command-line Python program for managing student information.
 
 ## Features
-
+- **Authentication:** Check for authentication.
 - **Add Student:** Manually add a student with a specified name, age, and grade.
 - **View Students:** Display a list of all students with their details.
 - **Search Student:** Find a student by their name.
